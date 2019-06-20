@@ -1,0 +1,11 @@
+numpy
+pandas==0.24.0
+sklearn
+matplotlib
+gym
+stable_baselines
+optuna
+ta
+statsmodels==0.10.0rc2
+empyrical
+tensorflow-gpu

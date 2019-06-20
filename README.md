@@ -1,3 +1,5 @@
+
+
 # Bitcoin-Trader-RL
 
 In this series of articles, we've created and optimized a Bitcoin trading agent to be highly profitable using deep reinforcement learning.
@@ -16,8 +18,24 @@ The first thing you will need to do to get started is install the requirements i
  ```bash
  pip install -r requirements.txt
  ```
+
  
  The requirements include the `tensorflow-gpu` library, though if you do not have access to a GPU, you should replace this requirement with `tensorflow`.
+
+# Set up FloydHub Account
+
+It is possible to run this code on your local machine, but it will probably take forever. Go to www.floydhub.com and make an account.
+You will need to make sure that the tensorboard directory is in the .floydignore file. It should be already. Run the following commands in the same directory as
+your .git file. 
+
+```bash
+floyd init cryptocurrency-analysis
+
+floyd run --gpu --env tensorflow-1.9 --follow "python3 optimize.py"
+
+```
+
+This should run your optimize.py file and take out a lot of time. If you do this you can skip running it on your local machine which is the next step.
  
  # Finding Hyper-Parameters
  
