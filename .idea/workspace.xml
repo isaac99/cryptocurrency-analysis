@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37f02ab2-0743-40d4-a59e-60ea826c1d88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/data/coinbase_daily.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/coinbase_daily.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/data/coinbase_hourly.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/coinbase_hourly.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/env/BitcoinTradingEnv.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/BitcoinTradingEnv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/env/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/optimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/render/BitcoinTradingGraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/render/BitcoinTradingGraph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/render/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/render/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/All_indicators.csv" beforeDir="false" afterPath="$PROJECT_DIR$/research/All_indicators.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/benchmark_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/benchmark_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/compare_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/compare_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/data_stationarization.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/data_stationarization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/results.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/ta_correlation.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/ta_correlation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/research/visualization.gif" beforeDir="false" afterPath="$PROJECT_DIR$/research/visualization.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/util/benchmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/benchmarks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/util/indicators.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/indicators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bitcoin-Trader-RL-master/util/stationarization.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/stationarization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,16 +12,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/optimize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+              <folding>
+                <element signature="e#347#360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/indicators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/ta/momentum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-443">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#140#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/research/ta_correlation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-982">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/stationarization.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tensor</find>
+      <find>add_indicators</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1942" />
-    <option name="y" value="-178" />
-    <option name="width" value="1035" />
-    <option name="height" value="965" />
+    <option name="x" value="1920" />
+    <option name="y" value="-390" />
+    <option name="width" value="1080" />
+    <option name="height" value="1670" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -59,6 +98,16 @@
               <item name="cryptocurrency-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="cryptocurrency-analysis" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cryptocurrency-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptocurrency-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="research" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cryptocurrency-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cryptocurrency-analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -70,6 +119,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,24 +147,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561046834669</updated>
-      <workItem from="1561046835945" duration="1885000" />
+      <workItem from="1561046835945" duration="5437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1885000" />
+    <option name="totallyTimeSpent" value="5437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1942" y="-178" width="1035" height="965" extended-state="0" />
+    <frame x="1920" y="-390" width="1080" height="1670" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32527694" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19171484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4994965" visible="true" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4994965" visible="true" weight="0.23510773" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50050354" side_tool="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -134,6 +189,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/benchmarks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/stationarization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/research/ta_correlation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-982">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/indicators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/ta/momentum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#140#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optimize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="e#347#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
